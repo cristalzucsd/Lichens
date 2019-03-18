@@ -1,5 +1,5 @@
 # Lichens
-Cellular communication in lichens is defined by interwoven metabolic architectures
+Cellular communication in symbiotic phototrophic-heterotrophic communities is defined by interwoven metabolic architectures
 
 The code deployed here was developed using MATLAB Inc. Using the academic licence for UC-San Diego.
 
